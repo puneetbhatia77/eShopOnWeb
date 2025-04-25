@@ -1,4 +1,4 @@
-#Test GitHub actions
+// Test GitHub actions
 
 using System.Net.Mime;
 using Ardalis.ListStartupServices;
