@@ -23,7 +23,6 @@ using Microsoft.Extensions.Diagnostics.HealthChecks;
 using Microsoft.eShopWeb.Web.Pages;
 using Microsoft.FeatureManagement;
 using Microsoft.IdentityModel.Tokens;
-using System.Net.Mime;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Logging.AddConsole();
